@@ -1,0 +1,178 @@
+body {
+    margin: 0;
+    padding: 100px 100px 0 100px;
+    font-family:  FreeMono, monospace;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    overflow-x: hidden;
+  }
+  
+  h1 {
+    width: 100%;
+    height: 500px;
+    margin: 0 auto 8px;
+    margin-left: -60%;
+    margin-bottom: 0px;
+    
+    font-family: system-ui;
+    text-align: left;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 70px;
+    color: #24b8b8;
+  }
+  h2 {
+    width: 118%;
+    height: 200px;
+    background: #24b8b8;
+    margin-left: -100px;
+    
+    background-size: 100%;
+    background-position: left;
+    margin-top: -68px;
+    margin-bottom: 100px;
+    color: #ffffff;
+    padding: 20px 0px 0 10px;
+    font-weight: 100;
+
+  }
+  
+  h3 {
+    border-bottom: 2px solid #217681;
+    padding-bottom: 10px;
+    width: 1860px;
+    line-height: 30px;
+    word-spacing: normal;
+    font-size: 50px;
+  
+  }
+  h4 {
+    font-weight: 100;
+  }
+  h6 {
+    margin-top: 40px;
+    font-size: 35px;
+    color:#217681;
+    line-height: 20px;
+    margin-bottom: 50px;
+    line-height: 30px;
+  }
+  /*ФОТО1 */
+  h7 {
+    margin-left: 1300px;
+  }
+  h5 {
+    width: 100%;
+    line-height: 30px;
+    word-spacing: normal;
+    font-size: 40px;
+    color: #d18800;
+  }
+h8 {
+  margin-bottom: -1000px;
+}
+
+  .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+
+  .site-header {
+    min-width: 100%;
+    height: 100%;
+    
+    margin-bottom: 70px;
+    padding-top: 30px;
+    background: #ffffff no-repeat center url("https://worddive.com/blog/wp-content/uploads/2018/11/shutterstock_1039074934.jpg");
+    background-position: right; 
+    background-size: contain;
+    background-size: 50%;
+    color: #ffffff;
+  }
+  
+  .site-header p {
+    width: 255px;
+    margin: 0 auto 10px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px; 
+  }
+  
+  .site-header img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .features {
+    width: 120%;
+    margin: 0 auto 30px;
+    padding: 0 10px;
+    margin-left:0px;
+  }
+  
+  .features p {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: 0 5px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: center;
+    
+  }
+  
+  .feature-ch {
+    padding-top: 170px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/6c/Natural_science.png");
+    background-size: contain;
+    background-size: 100px;
+
+  }
+  
+  .feature-g {
+    padding-top: 170px;
+    background-image: url("https://static.tildacdn.com/tild3632-3363-4230-a162-616333613639/edd358d7-2b60-42b9-b.png");
+    margin-left: 500px;
+    background-size: contain;
+    background-size: 150px;
+  }
+  
+  .feature-te {
+    padding-top: 170px;
+    background-image: url("https://expcommercial.com/wp-content/uploads/2021/05/HardwareRequirements.png");
+    background-size: contain;
+    background-size: 130px;
+
+  }
+  .feature-so {
+  
+    padding-top: 170px;
+    background-image: url("https://www.clipartmax.com/png/full/407-4072772_reach-more-customer-icon-reach-more-customer-icon.png");
+    background-size: contain;
+    
+    background-size: 100px;
+  }
+  
+  
+
+  
+  .site-footer {
+    min-width: 550px;
+    background-color: rgb(35, 110, 116);
+    margin-top: 300px;
+    color: #ffffff;
+  }
+  
+
+  
+  .site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 20px;
+  }
+ 
+  
+  
